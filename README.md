@@ -1,8 +1,8 @@
-> Hi, If you are a recruiter, I would notice you that I am not actively using github.
+> Hi, If you are a recruiter, I would notice you that I was not actively using GitHub for 3 years.
 
 ## 🚀 About Me
 
-Hi, I'm **Burak** – a full-stack developer based on **Warsaw**, graduated from Warsaw applied science academy on **Computer Engineer** Degree, specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development. I introduce myself as **Full-stack application engineer specialized in Web3**. 
+Hi, I'm **Burak** – a full-stack developer based on **Warsaw**, I studied **Computer Engineering** at the **Warsaw University of Applied Sciences.** , specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development. I introduce myself as **Full-stack application engineer specialized in Web3**. 
 
 > Sometimes they say I code well...
 
