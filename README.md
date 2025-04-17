@@ -1,4 +1,4 @@
-> Hi, If you are a recruiter, I would notice you that I was not actively using GitHub for 3 years.
+> Hi, If you are a recruiter, I would inform you about being inactive for 3 years in GitHub ecosystem.
 
 ## 🚀 About Me
 
