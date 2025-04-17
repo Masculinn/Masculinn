@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-Good day sir, I'm **Burak** – a full-stack developer based on **Warsaw**, studied **Computer Engineering** at the **Warsaw University of Applied Sciences.** , specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development.
-
-> I'd like to being called as **Full-stack software engineer specialized in Web3**. 
+Good day sir, I'm **Burak** – **a full-stack software engineer based on Warsaw**, studied **Computer Engineering** at the **Warsaw University of Applied Sciences.** , specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development.
 
 ## 🔗 Links
 
@@ -15,36 +13,12 @@ Good day sir, I'm **Burak** – a full-stack developer based on **Warsaw**, stud
 ## 🛠 Skills
 
 > FRONT-END: 
-Typescript - Javascript - React 19 - TailwindCSS - Next.js - Astro - Remix - React Query - Redux & Redux Toolkit - Zustand - Unity Game Engine - RadixUI - React Spring - Html/CSS3 - Motion Provider -
-Shopify - Framer Motion - Liquid - XML, JSON, YAML and others data models - WordPress and Wix 
+Typescript - Javascript - React & Redux - TailwindCSS - Next.js - Astro - Remix - React Query
 
 > BACK-END:
-Node.js - Express - J2EE - RESTful Services - HTTP - SOAP - Firebase - PostgreSQL - Supabase - Python (Basic knowledge) - OAUTH2.0 - MongoDB - Next Auth - C# - Parse and RESTful backend
+Node.js - Express - OAUTH2.0 - J2EE - RESTful Services - HTTP - SOAP - Firebase - PostgreSQL - Supabase - Python (Basic knowledge) - MongoDB - Next Auth - C# - Parse and RESTful backend
 APIs integration - JSON parsing
-
-
-## 🔥 Featured Project: Motion Provider
-
-[Motion Provider](https://burakdev.com/motion-provider) is my open-source animation library designed to make creating smooth, customizable animations a breeze. Explore real-world usage in the [examples](https://burakdev.com/motion-provider/examples) section!
 
 ## Support
 
-For support or any inquiries, feel free to email me at [hello@burakdev.com](mailto:hello@burakdev.com) or join our Slack community (coming soon).
-
-## Usage / Examples
-
-```typescript
-const AnimateEverything = () => (
-    <MotionContainer
-      mode={["filterBlurIn", "fadeRight"]}
-      configView={{ once: true, amount: 0.5 }}
-      elementType={"div"}
-      duration={1}
-      transition="smooth"
-    >
-      <h2 className="pt-12 lg:text-3xl font-bold">
-        Hello World
-      </h2>
-    </MotionContainer>
-  )
-```
+For support or any inquiries, feel free to email me at [hello@burakdev.com](mailto:hello@burakdev.com).
