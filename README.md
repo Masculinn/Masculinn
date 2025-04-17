@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Burak** – a full-stack developer based on **Warsaw**, I studied **Computer Engineering** at the **Warsaw University of Applied Sciences.** , specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development. I introduce myself as **Full-stack application engineer specialized in Web3**. 
+Good day sir, I'm **Burak** – a full-stack developer based on **Warsaw**, studied **Computer Engineering** at the **Warsaw University of Applied Sciences.** , specializing in both the creative and technical sides of development, with a strong focus on each field of web/mobile/app development.
 
-> Sometimes they say I code well...
+> I'd like to being called as **Full-stack software engineer specialized in Web3**. 
 
 ## 🔗 Links
 
